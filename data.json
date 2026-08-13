@@ -1,0 +1,26 @@
+{
+  "date": "13 августа",
+  "tasks": [
+    { "id": "t1", "title": "Настроить рассрочку в GetCourse для потока «Осень»", "done": false },
+    { "id": "t2", "title": "Ответить клиенту в Telegram про домен", "done": true },
+    { "id": "t3", "title": "Проверить вебинарную комнату перед эфиром", "done": false },
+    { "id": "t4", "title": "Согласовать баннер с дизайнером", "done": false }
+  ],
+  "habits": [
+    { "id": "h1", "title": "Вода — 1.5–2 л", "icon": "water", "done": true },
+    { "id": "h2", "title": "Прогулка или бег — 30 мин", "icon": "walk", "done": false },
+    { "id": "h3", "title": "Витамины утром", "icon": "pill", "done": true }
+  ],
+  "weeklyHabits": [
+    { "id": "w1", "title": "Силовая тренировка 1", "done": true },
+    { "id": "w2", "title": "Силовая тренировка 2", "done": false }
+  ],
+  "finance": {
+    "month": "Август",
+    "projects": [
+      { "id": "p1", "name": "Онлайн-школа «Рост»", "amount": 148000 },
+      { "id": "p2", "name": "Эксперт по маркетингу", "amount": 62000 },
+      { "id": "p3", "name": "Личный блог", "amount": 9500 }
+    ]
+  }
+}
