@@ -1,10 +1,8 @@
 {
   "date": "13 августа",
   "tasks": [
-    { "id": "t1", "title": "Настроить рассрочку в GetCourse для потока «Осень»", "done": false },
-    { "id": "t2", "title": "Ответить клиенту в Telegram про домен", "done": true },
-    { "id": "t3", "title": "Проверить вебинарную комнату перед эфиром", "done": false },
-    { "id": "t4", "title": "Согласовать баннер с дизайнером", "done": false }
+    { "id": "t1", "title": "Групповая терапия с психологом", "done": false },
+    { "id": "t2", "title": "MamaMentor: живой вебинар", "done": false }
   ],
   "habits": [
     { "id": "h1", "title": "Вода — 1.5–2 л", "icon": "water", "done": true },
