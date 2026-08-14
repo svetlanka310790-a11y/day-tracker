@@ -1,8 +1,9 @@
 {
-  "date": "13 августа",
+  "date": "14 августа",
   "tasks": [
-    { "id": "t1", "title": "Групповая терапия с психологом", "done": false },
-    { "id": "t2", "title": "MamaMentor: живой вебинар", "done": false }
+    { "id": "t1", "title": "Одеть детей в школу + купить канцелярию", "done": false },
+    { "id": "t2", "title": "Приём у ортодонта", "done": false },
+    { "id": "t3", "title": "Созвон с Никой Горенко", "done": false }
   ],
   "habits": [
     { "id": "h1", "title": "Вода — 1.5–2 л", "icon": "water", "done": true },
